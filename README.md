@@ -1,6 +1,3 @@
-<<<<<<< HEAD
-# ToDoApp
-=======
 # ToDoApp
 
 A simple task management application built with React (frontend), Flask (backend), and PostgreSQL (database), containerized using Docker and Docker Compose. This project demonstrates a full-stack application with unit and integration tests.
